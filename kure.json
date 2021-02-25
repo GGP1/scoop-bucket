@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/GGP1/kure/releases/download/v0.1.0/kure_v0.1.0_Windows_32bit.zip",
+            "bin": [
+                "kure.exe"
+            ],
+            "hash": "c765b0942cc044c8ec755d868e17516d5bc1ef2e962b8d651e6715c67b58c6a4"
+        },
+        "64bit": {
+            "url": "https://github.com/GGP1/kure/releases/download/v0.1.0/kure_v0.1.0_Windows_64bit.zip",
+            "bin": [
+                "kure.exe"
+            ],
+            "hash": "76a607dbaf9f0d0c5abd4c162636a1d1ab6e15327734b0897cb8e08bfa8d5f42"
+        }
+    },
+    "homepage": "https://github.com/GGP1/kure",
+    "license": "Apache 2.0",
+    "description": "CLI password manager"
+}
