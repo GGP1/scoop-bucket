@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/GGP1/kure/releases/download/v0.4.0/kure_v0.4.0_Windows_32bit.zip",
+            "url": "https://github.com/GGP1/kure/releases/download/v0.4.2/kure_v0.4.2_Windows_32bit.zip",
             "bin": [
                 "kure.exe"
             ],
-            "hash": "20d8cd0f45c6c48585c0b6b7523d15c983f92c45f2e88ad1b7f9cae894a17e05"
+            "hash": "102b6f68b6b5653df1a261f3ceb5f35258984cf58e31d41202905fa123c8f34a"
         },
         "64bit": {
-            "url": "https://github.com/GGP1/kure/releases/download/v0.4.0/kure_v0.4.0_Windows_ARMv6.zip",
+            "url": "https://github.com/GGP1/kure/releases/download/v0.4.2/kure_v0.4.2_Windows_64bit.zip",
             "bin": [
                 "kure.exe"
             ],
-            "hash": "5759fdda96c93335256e12bcb9c522ff1e2b09b0d7445cac8a950dfcb6e52daf"
+            "hash": "fde07db45f5a13ebacca4ce2e1b824084ca9b2bf65a9a00499c25eb80f1078ab"
         }
     },
     "homepage": "https://github.com/GGP1/kure",
