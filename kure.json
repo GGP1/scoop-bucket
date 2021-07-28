@@ -6,14 +6,14 @@
             "bin": [
                 "kure.exe"
             ],
-            "hash": "7655037290846498225926fb4cba047e169ea03d12c85c56e74cbdd32bd7cf6b"
+            "hash": "d99dca94725464abf4dd67c595a05d62638f0edea8474a09526bf88b28da60c9"
         },
         "64bit": {
             "url": "https://github.com/GGP1/kure/releases/download/v0.4.3/kure_v0.4.3_Windows_64bit.zip",
             "bin": [
                 "kure.exe"
             ],
-            "hash": "297f2a2bd76d64c59fa0737ee98c7b8d3e9a9ace5867125249f0a5880a34e2ba"
+            "hash": "1f863c46802729ea92d7fc2686f996ebd205d7183b7349700bac2368a1fac422"
         }
     },
     "homepage": "https://github.com/GGP1/kure",
