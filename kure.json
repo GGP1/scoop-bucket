@@ -1,22 +1,22 @@
 {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/GGP1/kure/releases/download/v0.7.0/kure_v0.7.0_Windows_32bit.zip",
+            "url": "https://github.com/GGP1/kure/releases/download/v0.7.1/kure_v0.7.1_Windows_32bit.zip",
             "bin": [
                 "kure.exe"
             ],
-            "hash": "29d56c5a870d173fa6fa282f30087013552ccd8d31ec555c54db11682ef8dbe0"
+            "hash": "df5fd037c27e831b66af72e154b5642c13df50188b458c442573396920847918"
         },
         "64bit": {
-            "url": "https://github.com/GGP1/kure/releases/download/v0.7.0/kure_v0.7.0_Windows_64bit.zip",
+            "url": "https://github.com/GGP1/kure/releases/download/v0.7.1/kure_v0.7.1_Windows_64bit.zip",
             "bin": [
                 "kure.exe"
             ],
-            "hash": "b19aa43750154223bb4de8fdb0b1fdca9c58ebfee27671757b46e608d0d881de"
+            "hash": "e16c2d3d2c091fd3afc14dabeaf283336a85697d7a10bd20f6ba3cc4eb013908"
         }
     },
     "homepage": "https://github.com/GGP1/kure",
     "license": "Apache 2.0",
-    "description": "Secure, private and feature-rich CLI password manager"
+    "description": "Cross-platform CLI password manager with sessions"
 }
